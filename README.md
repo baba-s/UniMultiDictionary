@@ -1,11 +1,11 @@
-# Uni Multi Dictionary
+﻿# Uni Multi Dictionary
 
 1つのキーに対して複数の値を登録できる Dictionary  
 
 ## 使用例
 
 ```cs
-using UniMultiDictionary;
+using Kogane;
 using UnityEngine;
 
 public class Example : MonoBehaviour
