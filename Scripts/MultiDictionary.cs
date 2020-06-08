@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace UniMultiDictionary
+namespace Kogane
 {
 	/// <summary>
 	/// 1 つのキーに対して複数の値を登録できる Dictionary
